@@ -8,7 +8,7 @@ Artificial Intelligence (AI)-driven defect inspection is pivotal in industrial m
 ![image](https://github.com/jqtangust/IUF/blob/ae8b9a5051a7308816fce8e3196acdc429d7d9d2/Motivation2.svg)
 
 ## Codes
-*Relevant code and materials will be released after the official publication.*
+*To Notice: Relevant code and materials will be released after the official publication.*
 
 ## Citation
 TODO
