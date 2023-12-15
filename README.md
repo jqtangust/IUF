@@ -11,4 +11,12 @@ Artificial Intelligence (AI)-driven defect inspection is pivotal in industrial m
 *To Notice: Relevant code and materials will be released after the official publication.*
 
 ## Citation
-TODO
+
+@misc{tang2023incremental,
+      title={An Incremental Unified Framework for Small Defect Inspection}, 
+      author={Jiaqi Tang and Hao Lu and Xiaogang Xu and Ruizheng Wu and Sixing Hu and Tong Zhang and Tsz Wa Cheng and Ming Ge and Ying-Cong Chen and Fugee Tsung},
+      year={2023},
+      eprint={2312.08917},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
