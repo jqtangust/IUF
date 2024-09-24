@@ -4,7 +4,9 @@
 
 ### This is the official repository for [IUF](https://arxiv.org/abs/2403.04368) (ECCV 2024).
 
-[Jiaqi Tang](https://jqt.me/), [Hao Lu]((https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN)), [Xiaogang Xu](https://xuxiaogang.com/), [Ruizheng Wu](https://scholar.google.com/citations?user=OOagpAcAAAAJ&hl=en), [Sixing Hu](https://david-husx.github.io/), Tong Zhang, Twz Wa Cheng, [Ming Ge](https://www.linkedin.com/in/ming-ge-7817242a/?originalSubdomain=hk), [Ying-Cong Chen*](https://www.yingcong.me/) and [Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/).
+[Jiaqi Tang](https://jqt.me/), [Hao Lu](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN), [Xiaogang Xu](https://xuxiaogang.com/), [Ruizheng Wu](https://scholar.google.com/citations?user=OOagpAcAAAAJ&hl=en), [Sixing Hu](https://david-husx.github.io/), 
+
+Tong Zhang, Twz Wa Cheng, [Ming Ge](https://www.linkedin.com/in/ming-ge-7817242a/?originalSubdomain=hk), [Ying-Cong Chen*](https://www.yingcong.me/) and [Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/).
 
 *: Corresponding Author
 
