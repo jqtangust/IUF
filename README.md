@@ -74,9 +74,14 @@ Here is our [Project Page](https://jqt.me/_IUF_/) with Video!
     │   │   ├── 8_test.json # for training in 1-8 class 
     │   │   └── 11_test.json # for training in 1-11 class 
     │
-    ├── MvTecAD
-    │   ├── ... 
-    ...
+    ├── MvTec AD
+    │   ├── mvtec_anomaly_detection # Data
+    │   ├── 33333 # for 33333 class
+    │   ├── json_test # for each class test
+    │   ├── json_train # for each class train
+    │   ├── test_X.json # for X class test
+    │   ├── train_X.json  # for X class Train
+    │   └── ...
     ```
 
 - **Task Protocols**: Based on the practical requirements of industrial defect inspection, we set up our experiments in both **single-step** and **multi-step** settings. 
