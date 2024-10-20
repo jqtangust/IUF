@@ -89,10 +89,7 @@ Here is our [Project Page](https://jqt.me/_IUF_/) with Video!
     - MVTec-AD: $\mathbf{14-1\ with \ 1\ Step}$, $\mathbf{10-5\ with \ 1\ Step}$, $\mathbf{3 - 3\ with \ 4\ Steps}$ and $\mathbf{10-1\ with \ 5\ Steps}$.
     - VisA: $\mathbf{11-1\ with \ 1\ Step}$, $\mathbf{8-4\ with \ 1\ Step}$, $\mathbf{8-1\ with \ 4\ Steps}$
   
-- **Usage: follow above protocols in increamental learning.**
-
-### 🏰 *Pretrained Model*
-- TODO
+- **Usage: follow the above protocols in incremental learning.**
 
 ### 🔨 *Configuration*
 
