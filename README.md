@@ -1,8 +1,8 @@
 <div align="center">
 
-# [ECCV 2024] An [Incremental Unified Framework](https://arxiv.org/abs/2403.04368) for Small Defect Inspection
+# [ECCV 2024] An [Incremental Unified Framework](https://link.springer.com/chapter/10.1007/978-3-031-72751-1_18) for Small Defect Inspection
 
-### This is the official repository for [IUF](https://arxiv.org/abs/2403.04368) (ECCV 2024).
+### This is the official repository for [IUF](https://link.springer.com/chapter/10.1007/978-3-031-72751-1_18) (ECCV 2024).
 
 [Jiaqi Tang](https://jqt.me/), [Hao Lu](https://scholar.google.com/citations?user=OrbGCGkAAAAJ&hl=zh-CN), [Xiaogang Xu](https://xuxiaogang.com/), [Ruizheng Wu](https://scholar.google.com/citations?user=OOagpAcAAAAJ&hl=en), [Sixing Hu](https://david-husx.github.io/), 
 
